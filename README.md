@@ -55,7 +55,7 @@ No alteration of original image structure
 
 ⚙️ How to Run the Project
 1️⃣ Clone the repository
-git clonehttps://github.com/Aman1238-Aman/My-project_1-Cyber-Security.git
+ https://github.com/Aman1238-Aman/My-project_1-Cyber-Security.git
 
 2️⃣ Navigate to the project directory
 cd steganography-project
